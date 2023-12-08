@@ -1,19 +1,19 @@
-#### Tecnologias :tw-1f4be: :tw-1f4bb::
+## Tecnologias:
 [![tecnologias.png](https://i.postimg.cc/Kz0tQGCJ/tecnologias.png)](https://postimg.cc/r0tdwkVr)
 
-##Proyecto :tw-1f4dd: Citas Medicas :tw-1f3e5: :
+# Proyecto: Citas Medicas :
 El objetivo de este proyecto es desarrollar un aplicativo web (REST API) que permita gestionar la información de pacientes y doctores. El aplicativo deberá cumplir con los siguientes requisitos:
 
 - Recibir la información de pacientes y doctores a través de formularios web.
 - Almacenar la información en una base de datos.
 - Mostrar la información de pacientes y doctores en una página web.
 
-##Características y funcionalidades :tw-2b07: :
+## Características y funcionalidades :
 - Node, Express, Typescript, MySQL and Sequelize as ORM Basic REST API
 - CRUD Operations (A Controller for this)
 - SQL for database: Relational MySQL - Use ORM Sequelize
 
-##Documentación de tecnologias :tw-1f4d2: :
+## Documentación de tecnologias  :
 
 - [Node](https://nodejs.org/en)
 - [Express](https://expressjs.com/)
