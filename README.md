@@ -1,16 +1,19 @@
-# Basic API REST Citas
+#### Tecnologias :tw-1f4be: :tw-1f4bb::
+[![tecnologias.png](https://i.postimg.cc/Kz0tQGCJ/tecnologias.png)](https://postimg.cc/r0tdwkVr)
 
-Node.js, Express.js, MySQL, Sequelize and Typescript Basic REST API.
+##Proyecto :tw-1f4dd: Citas Medicas :tw-1f3e5: :
+El objetivo de este proyecto es desarrollar un aplicativo web (REST API) que permita gestionar la información de pacientes y doctores. El aplicativo deberá cumplir con los siguientes requisitos:
 
-You can clone this repo as starter project for your Express, MySQL API server
+- Recibir la información de pacientes y doctores a través de formularios web.
+- Almacenar la información en una base de datos.
+- Mostrar la información de pacientes y doctores en una página web.
 
-## Features and Functionalities 😃
-
+##Características y funcionalidades :tw-2b07: :
 - Node, Express, Typescript, MySQL and Sequelize as ORM Basic REST API
 - CRUD Operations (A Controller for this)
 - SQL for database: Relational MySQL - Use ORM Sequelize
 
-## Tech Stack 💻
+##Documentación de tecnologias :tw-1f4d2: :
 
 - [Node](https://nodejs.org/en)
 - [Express](https://expressjs.com/)
@@ -23,8 +26,8 @@ You can clone this repo as starter project for your Express, MySQL API server
 **1. Clone this repo by running the following command :-**
 
 ```bash
- git clone https://github.com/norbeydanilo/api-citas-sequelize-ts.git
- cd api-citas-sequelize-ts
+ git clone https://github.com/RaulAJaimes/citas-medicas-ts.git
+ cd citas-medicas-ts
 ```
 
 **2. Install the required package :-**
@@ -89,7 +92,7 @@ Por favor, ten en cuenta que este es un ejemplo básico y puedes necesitar ajust
 
 ## Data model
 
-Entra al siguiente [repositorio](https://github.com/norbeydanilo/database-exercises/tree/main/citas) para encontrar el modelo de datos empleado para este ejemplo.
+En la carpeta database-citasMedicas-main
 
 ## Steps
 
