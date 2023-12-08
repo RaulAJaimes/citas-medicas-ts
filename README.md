@@ -149,6 +149,3 @@ Esto te permitirá iniciar tu proyecto con `npm start` y ejecutar tu proyecto en
 
 ¡Y eso es todo! Ahora tienes una base para empezar a construir tu API REST con TypeScript, Node.js, Express.js y Sequelize ORM para MySQL. ¡Buena suerte con tu proyecto! 🚀
 
-> Create by Norbey Danilo Muñoz Cañón, 2023.
->
-> The idea of ​​intellectual property is fundamentally wrong. Knowledge belongs to all people!
